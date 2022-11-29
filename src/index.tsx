@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(
 const mainRouter = createBrowserRouter([
   { path: '/', element: <App/>, children: [
     { path: '/', element: <Home/> },
-    { path: '/:pack/:seed', element: <Question/> }
+    { path: '/:pack/:seed/:qnum', element: <Question/> }
   ]}
 ])
 
