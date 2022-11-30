@@ -19,7 +19,7 @@ const mainRouter = createBrowserRouter([
 
 root.render(
   <React.StrictMode>
-    <MantineProvider withGlobalStyles withNormalizeCSS>
+    <MantineProvider withGlobalStyles withNormalizeCSS theme={waesTheme}>
       <RouterProvider router={mainRouter}/>
     </MantineProvider>
   </React.StrictMode>

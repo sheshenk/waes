@@ -12,7 +12,7 @@ export default function HomeSelectPack() {
 		<Stack>
 			<Text align='center' size='md'>Choose a pack and start a game!</Text>
 			<Select value={pack} onChange={p => setPack(p)} data={packs.map(p => ({ value: p, label: p.charAt(0).toUpperCase() + p.slice(1)}))} color='#c0392b'/>
-			<Button onClick={() => navigate(`/${pack}/${val}/0`)} color='red'>Start New Game</Button>
+			<Button onClick={() => navigate(`/${pack}/${val}/0`)}>Start New Game</Button>
 		</Stack>
 	)
 }
