@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(
 const mainRouter = createBrowserRouter([
   { path: '/', element: <App/>, children: [
     { path: '/', element: <HomePage/> },
-    { path: '/:pack/:seed/:qnum', element: <QuestionPage/> }
+    { path: '/:pack/:seed/:qid', element: <QuestionPage/> }
   ]}
 ])
 
