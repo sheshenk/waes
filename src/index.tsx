@@ -3,8 +3,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App';
-import Home from './pages/Home';
-import Question from './pages/Question';
+import HomePage from './pages/HomePage';
+import QuestionPage from './pages/QuestionPage';
+import waesTheme from './utils/waesTheme';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -12,8 +13,8 @@ const root = ReactDOM.createRoot(
 
 const mainRouter = createBrowserRouter([
   { path: '/', element: <App/>, children: [
-    { path: '/', element: <Home/> },
-    { path: '/:pack/:seed/:qnum', element: <Question/> }
+    { path: '/', element: <HomePage/> },
+    { path: '/:pack/:seed/:qnum', element: <QuestionPage/> }
   ]}
 ])
 
