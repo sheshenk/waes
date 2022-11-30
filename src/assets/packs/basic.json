@@ -1,0 +1,472 @@
+{
+	"questions": [
+		{
+			"body": "Level 1 Example, Basic",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Basic",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 3 Example, Drawing",
+			"level": 3,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Drawing Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 3 Example, Drawing",
+			"level": 3,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Drawing Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Basic",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Basic",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 3 Example, Drawing",
+			"level": 3,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Drawing Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 3 Example, Drawing",
+			"level": 3,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Drawing Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Basic",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 1 Example, Drawing",
+			"level": 1,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Drawing Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 1 Example, Wildcard",
+			"level": 1,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Basic",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 2 Example, Drawing",
+			"level": 2,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 2 Example, Drawing Wildcard",
+			"level": 2,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 3 Example, Drawing",
+			"level": 3,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Drawing Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": false
+		},
+		{
+			"body": "Level 3 Example, Drawing",
+			"level": 3,
+			"isWildcard": false,
+			"isDrawing": true
+		},
+		{
+			"body": "Level 3 Example, Drawing Wildcard",
+			"level": 3,
+			"isWildcard": true,
+			"isDrawing": true
+		}
+	]
+}
