@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/waes/static/js/main.6f6d91ad.js",
+    "main.js": "/waes/static/js/main.5d48f0d0.js",
     "index.html": "/waes/index.html",
-    "main.6f6d91ad.js.map": "/waes/static/js/main.6f6d91ad.js.map"
+    "main.5d48f0d0.js.map": "/waes/static/js/main.5d48f0d0.js.map"
   },
   "entrypoints": [
-    "static/js/main.6f6d91ad.js"
+    "static/js/main.5d48f0d0.js"
   ]
 }
