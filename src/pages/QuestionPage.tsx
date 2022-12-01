@@ -33,7 +33,7 @@ export default function QuestionPage() {
 	return (
 		filteredQuestions.length === 0 ? <LoadingBars/> : (
 			<>
-			<QuestionBody qid={qid} question={filteredQuestions[qid]}/>
+			<QuestionBody question={filteredQuestions[qid]}/>
 			<QuestionNavigation qid={qid} max={filteredQuestions.length - 1} pack={pack} seed={seed}/>
 			</>
 		)
