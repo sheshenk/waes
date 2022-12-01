@@ -11,9 +11,10 @@ export default function QuestionText(props: QuestionTextProps) {
 			{
 				props.question.isWildcard && 
 					<span style={{ color: theme.primaryColor, fontWeight: 'bold' }}>
-						Wildcard: 
+						Wildcard:
 					</span>
 			}
+			{ props.question.isWildcard && " " }
 			{props.question.body}
 		</Text>
 	)

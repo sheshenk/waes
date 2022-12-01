@@ -3,7 +3,6 @@ import QuestionText from "./QuestionText";
 import QuestionWhiteboard from "./QuestionWhiteboard";
 
 interface QuestionBodyProps {
-	qid: number
 	question: Question
 }
 
@@ -11,11 +10,11 @@ export default function QuestionBody(props: QuestionBodyProps) {
 	return (
 		<Stack spacing='xl'>
 			<Title align='center' order={3}>
-				Level {Math.ceil((props.qid + 1) / 10)} Question {(props.qid % 10) + 1}
+				Level {props.question.level} Question {props.question.qnum}
 			</Title>
 			<QuestionText question={props.question}/>
 			{ props.question.isDrawing && <QuestionWhiteboard question={props.question}/> }
-			{ !props.question.isDrawing && <Space my='sm'/> }
+			<Space my={props.question.isDrawing ? 0 : 'sm'}/>
 		</Stack>
 	)
 }
